@@ -1,4 +1,4 @@
-# FrontEndStore_inicio_HTML_CSS
+# FrontEndStore_HTML_CSS
 **Proyecto utilizando:** HTML Y CSS ( GRID Y FLEX )
 
 **Descripcion:** Proyecto realizado con las tecnologia de HTML5, utilizando buenas practicas Y CSS3 con los alitementos de FLEX y GRID, 
